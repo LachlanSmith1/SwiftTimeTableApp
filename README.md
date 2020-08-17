@@ -1,2 +1,3 @@
 # SwiftTimeTableApp
-An iOS App timetable/calendar application
+An iOS App timetable/calendar application project
+
